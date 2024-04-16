@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/15 23:07:46.000.449,=C:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 23:12:47.000.755,C:\Projetos\EMBALSOFT\uPrincipal.dfm=C:\Projetos\Unit1.dfm</Transaction>
+    <Transaction>2024/04/15 23:12:47.000.755,C:\Projetos\EMBALSOFT\uPrincipal.pas=C:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 23:17:40.000.728,C:\Projetos\EMBALSOFT\embalsoft.dproj=C:\Projetos\Project1.dproj</Transaction>
+    <Transaction>2024/04/16 00:14:34.000.547,=C:\Projetos\EMBALSOFT\Unit1.pas</Transaction>
+    <Transaction>2024/04/16 00:15:19.000.090,C:\Projetos\EMBALSOFT\DAO\uDmConexao.dfm=C:\Projetos\EMBALSOFT\Unit1.dfm</Transaction>
+    <Transaction>2024/04/16 00:15:19.000.090,C:\Projetos\EMBALSOFT\DAO\uDmConexao.pas=C:\Projetos\EMBALSOFT\Unit1.pas</Transaction>
+    <Transaction>2024/04/16 00:15:59.000.184,=C:\Projetos\EMBALSOFT\Unit1.pas</Transaction>
+    <Transaction>2024/04/16 00:16:25.000.041,C:\Projetos\EMBALSOFT\DAO\uDmPrincipal.dfm=C:\Projetos\EMBALSOFT\Unit1.dfm</Transaction>
+    <Transaction>2024/04/16 00:16:25.000.041,C:\Projetos\EMBALSOFT\DAO\uDmPrincipal.pas=C:\Projetos\EMBALSOFT\Unit1.pas</Transaction>
+    <Transaction>2024/04/16 11:34:08.000.637,=C:\Projetos\EMBALSOFT\Unit1.pas</Transaction>
+    <Transaction>2024/04/16 11:34:29.000.818,C:\Projetos\EMBALSOFT\Unit1.pas=C:\Projetos\EMBALSOFT\Model\uClienteModel.pas</Transaction>
+    <Transaction>2024/04/16 11:45:12.000.147,=C:\Projetos\EMBALSOFT\Unit1.pas</Transaction>
+    <Transaction>2024/04/16 11:45:31.000.658,C:\Projetos\EMBALSOFT\Unit1.pas=C:\Projetos\EMBALSOFT\Controller\uClienteController.pas</Transaction>
+  </Transactions>
+</BorlandProject>
